@@ -23,7 +23,7 @@ The application is implemented in four different programming languages, each res
 
 - **Javascript**
 - **Python**
-- **Java**
+- [**Java**](https://github.com/hei-school/my-wallet-ReichmannGaly/tree/feature/Java)
 - **C#**
 
 Feel free to explore the language-specific branches to access the codebase in your preferred programming language.

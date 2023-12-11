@@ -46,4 +46,4 @@ Before running the application, make sure you have Node.js installed on your sys
 
 ---
 
-*Thank you for using My Wallet Console App (Java Version)!*
+*Thank you for using My Wallet Console App (Javascript Version)!*

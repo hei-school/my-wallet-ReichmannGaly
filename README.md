@@ -22,7 +22,7 @@ This application facilitates the management of a wallet by providing functionali
 The application is implemented in four different programming languages, each residing in a separate branch. Choose the branch corresponding to your preferred language:
 
 - [**Javascript**](https://github.com/hei-school/my-wallet-ReichmannGaly/tree/feature/Javascript)
-- **Python**
+- [**Python**](https://github.com/hei-school/my-wallet-ReichmannGaly/tree/feature/Python)
 - [**Java**](https://github.com/hei-school/my-wallet-ReichmannGaly/tree/feature/Java)
 - **C#**
 

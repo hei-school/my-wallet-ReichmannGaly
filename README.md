@@ -26,7 +26,7 @@ Before running the application, make sure you have Node.js installed on your sys
 
 2. Navigate to the Javascript branch:
     ```bash
-    cd my-wallet-javascript
+    cd my-wallet-ReichmannGaly/
 
     git checkout feature/Javascript
 

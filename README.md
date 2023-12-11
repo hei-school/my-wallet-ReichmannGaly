@@ -42,4 +42,4 @@ Before running the application, make sure you have Python installed on your syst
 
 ---
 
-*Thank you for using My Wallet Console App (Java Version)!*
+*Thank you for using My Wallet Console App (Python Version)!*

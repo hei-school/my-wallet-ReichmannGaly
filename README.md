@@ -1,19 +1,21 @@
 # My Wallet Console App - Java Version
 
-A console application developed in Java for efficient wallet management.
+This is a simple wallet management system implemented in Java. 
+The project allows users to manage various items in their wallet, such as ID cards, money, credit cards, business cards, driving licenses, and ID photos.
 
 ---
 
-## About the Project
+## Features
 
-This Java application is designed to streamline wallet management, providing functionality for the following items:
-
-- ID Card
-- Money
-- Credit Card
-- Driver's License
-- Business Card
-- ID Photo
+- Display wallet information
+- View and manage ID cards
+- View and manage money
+- View and manage credit cards
+- View and manage business cards
+- View and manage driving licenses
+- View and manage ID photos
+- Add new items to the wallet
+- Remove items from the wallet
 
 ---
 

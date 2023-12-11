@@ -36,6 +36,8 @@ Before running the application, ensure that you have Java installed on your syst
 3. Compile and run the Java program:
 
     ```bash
+    cd my-wallet-ReichmannGaly/
+    
     javac -d ./bin -cp ./src/main/java ./src/main/java/com/prog5/*.java
    
     java -cp ./bin com.prog5.Main

@@ -35,3 +35,11 @@ Before running the application, make sure you have Python installed on your syst
     python main.py
 
 4. Follow the on-screen prompts to manage your wallet items efficiently.
+
+---
+
+**Note:** The application is implemented in multiple programming languages. If you prefer a different language, explore the corresponding branch.
+
+---
+
+*Thank you for using My Wallet Console App (Java Version)!*

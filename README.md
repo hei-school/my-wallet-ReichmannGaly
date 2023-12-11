@@ -24,7 +24,7 @@ Before running the application, make sure you have Python installed on your syst
    ```bash
    git clone https://github.com/hei-school/my-wallet-ReichmannGaly.git
 
-2. Navigate to the Javascript branch:
+2. Navigate to the Python branch:
     ```bash
     cd my-wallet-ReichmannGaly/
 
